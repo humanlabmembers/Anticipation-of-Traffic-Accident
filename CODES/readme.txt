@@ -6,7 +6,7 @@ Please install the Conda environment according to the dependencies in 'requireme
 
 2. Download the dataset
 
-Due to the anonymity rule, we cannot directly provide an external link to the dataset. Please download all the videos of the DAD dataset according to the guidance of the reference. Please divide the training set and test set according to the settings of the dataset.
+Please download all the videos of the DAD dataset according to the guidance of the reference. Please divide the training set and test set according to the settings of the dataset.
 
 3. Feature extraction
 
@@ -32,7 +32,6 @@ We plan to provide 4 checkpoints in the ckpts folder:
 	IV. DAD_replaced40%.pth
 	The experimental results of using the DAD dataset and randomly replacing the original videos with 40% of the generated videos in the training set.
 
-However, due to file size limitation, we can unfortunately only provide the code with ckpt. If you are interested in our work, please contact us at a later stage to obtain the corresponding ckpt.
 
 6. Run the test
 Change '--model_file' to the checkpoint path you want to test, set '--phase' to 'test' and run the 'main' file to get the output results.
