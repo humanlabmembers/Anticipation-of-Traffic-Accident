@@ -13,5 +13,5 @@ https://pan.baidu.com/s/161f-xR5Hr1lNNIjY40Yr4w?pwd=aota Password: aota
 Then, follow the readme file in Codes.
 
 
-The code for the generative and inference models will be re-uploaded after being organized.
+Due to requests from other researchers, the code for the generative and inference models will be re-uploaded after being tidied up.
 November 2025
